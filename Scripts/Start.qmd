@@ -1,6 +1,11 @@
+---
+Title: "Temporary Document"
+Author: "Chase Foreman"
+format: html
+---
 
 ```{r}
-
-
+library(knitr)
+library(rmarkdown)
 
 ```
